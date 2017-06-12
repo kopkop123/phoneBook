@@ -1,0 +1,20 @@
+{
+  "name": "phone",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "denys tsymbalenko <den_cimbal@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kopkop123/phoneBook",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
